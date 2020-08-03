@@ -1,4 +1,4 @@
-# Mock Portoflio Exercise
+# Mock Portfolio Exercise
 
 # What I have learned building this
 
