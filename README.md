@@ -2,11 +2,11 @@
 
 # What I have learned building this
 
-> Dynamic progress bar with vanilla JS (awful for a portfolio but good to practice the functionality)
-> Sticky navbar with Y offset using vanilla JS  
-> Window resizer event listener to ensure a good UX experience   
-> Neat HTML and CSS subdivision of sections     
-> Media queries
+> Dynamic progress bar with vanilla JS  
+> Sticky navbar with Y offset using vanilla JS   
+> Window resizer event listener to ensure a good UX experience    
+> Neat HTML and CSS subdivision of sections      
+> Media queries  
 
 &nbsp;
 &nbsp;
